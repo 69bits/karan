@@ -1,0 +1,26 @@
+#k1 {
+    margin-top: 10ch;
+    text-align: center;
+    background-color: rgb(42, 232, 118);
+    color: white;
+    border-color: transparent;
+    border-radius: 8px;
+    font-size: small;
+    
+}
+#k1:hover{
+    background-color: rgb(174, 209, 0);
+    cursor: pointer;
+}
+#k2{
+    margin-top: 3ch;
+    text-align: center;
+    font-family: 'Sofia';font-size: 22px;
+}
+.abt{
+    text-align: center;
+    font-family: Trirong;
+    font-weight: bold;
+    color:black;
+    letter-spacing: 3px;
+}
